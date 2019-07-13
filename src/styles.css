@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background: #dadada;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background: white;
+  width: 350px;
+  height: 400px;
+  border: 2px solid #08ffc8;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+}
+h1 {
+  padding: 2rem;
+  color: #204969;
+  line-height: 2;
+}
+
+h1 span {
+  color: #08ffc8;
+}
